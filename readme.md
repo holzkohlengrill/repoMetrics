@@ -10,8 +10,7 @@
 For the issue analysis you will get images and a `.csv` file containing the raw data. The `.csv` will have a structure like:
 
 | index | assignee | assignees | author | closed_at | closed_by | confidential | created_at | description | discussion_locked | downvotes | due_date | id | iid | labels | merge_requests_count | milestone | project_id | state | time_stats | title | updated_at | upvotes | user_notes_count | web_url | created_at_CW | created_at_year | closed_at_CW | closed_at_year | label_<...> | label_enhancement | milestone_title |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|-------|----------|-----------|--------|-----------|-----------|--------------|------------|-------------|-------------------|-----------|----------|----|-----|--------|----------------------|-----------|------------|-------|------------|-------|------------|---------|------------------|---------|---------------|-----------------|--------------|----------------|-------------|-------------------|-----------------|
 
 Example result images can be found in [example_img](./example_img).
 
